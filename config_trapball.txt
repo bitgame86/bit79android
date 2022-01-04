@@ -1,0 +1,20 @@
+{
+    "g": "bit79",
+    "mf": "https://bit79.win/bundle/android/remote-assets/",
+    "dv": {
+        "i": true,
+        "a": true 
+    },
+    "ct": ["VN"],
+    "tl": [],
+    "cfg": {
+        "rdl": [],
+        "tgll": [
+
+        ],
+        "zl": "",
+        "tcf": ["", ""],
+        "tlg": "",
+        "level" : []
+    }
+}
