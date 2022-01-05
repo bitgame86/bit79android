@@ -3,7 +3,7 @@
     "mf": "https://bit79.win/bundle/android/remote-assets/",
     "dv": {
         "i": true,
-        "a": false 
+        "a": true 
     },
     "ct": ["VN"],
     "tl": [],
